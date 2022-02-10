@@ -1,0 +1,24 @@
+body{
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    grid-template-columns: auto auto auto;
+}
+.fmlre{
+    display: grid;
+    background-color: rgba(78, 83, 83, 0.603);
+    width: 15%;
+    border-radius: 5px;
+    font-size: 10px;
+    height: 10rem;
+    justify-items: center;
+    align-items: center;
+}
+input{
+    display: grid;
+    width: 90%;
+    border-radius: 10px;
+   
+}
